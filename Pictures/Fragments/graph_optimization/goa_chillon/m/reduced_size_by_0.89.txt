@@ -1,0 +1,40 @@
+{
+	"options":
+	{
+		"series" : "goa_chillon"
+	},
+	"fragments":
+	[
+		{
+			"name": "goa_chillon_p1_m.png",
+			"T": [0.000, 0.000, 0.000]
+		},{
+			"name": "goa_chillon_p2_m.png",
+			"T": [-7.500, 262.500, 0.000]
+		},{
+			"name": "goa_chillon_p3_m.png",
+			"T": [-8.000, 478.500, 0.000]
+		},{
+			"name": "goa_chillon_p4_m.png",
+			"T": [-2.500, 663.000, 0.000]
+		},{
+			"name": "goa_chillon_p5_m.png",
+			"T": [198.500, 17.500, 0.000]
+		},{
+			"name": "goa_chillon_p6_m.png",
+			"T": [197.000, 318.500, 0.000]
+		},{
+			"name": "goa_chillon_p7_m.png",
+			"T": [203.500, 608.000, 0.000]
+		},{
+			"name": "goa_chillon_p8_m.png",
+			"T": [387.000, 2.000, 0.000]
+		},{
+			"name": "goa_chillon_p9_m.png",
+			"T": [385.500, 287.500, 0.000]
+		},{
+			"name": "goa_chillon_p10_m.png",
+			"T": [389.000, 600.000, 0.000]
+		}
+	]
+}

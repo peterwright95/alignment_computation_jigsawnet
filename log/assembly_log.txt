@@ -1,0 +1,655 @@
+Loaded fragments: hovav_x_p1_m.png, hovav_x_p2_m.png, hovav_x_p3_m.png, hovav_x_p4_m.png, hovav_x_p5_m.png, hovav_x_p6_m.png, hovav_x_p7_m.png, hovav_x_p8_m.png, hovav_x_p9_m.png, hovav_x_p10_m.png, hovav_x_p11_m.png, hovav_x_p12_m.png, hovav_x_p13_m.png, hovav_x_p14_m.png, hovav_x_p15_m.png, hovav_x_p16_m.png, hovav_x_p17_m.png, hovav_x_p18_m.png
+Fragments input rotations: [292 325 46 328 227 35 100 196 344 346 57 348 344 174 287 51 151 329]
+----------------------
+Init options: n_rot: 80, samp_res: 5
+----------------------
+-------------Starting dissimilarity--------------
+All cspace calc time(mex): 302.8416 sec
+All cspace (ex) calc time(mex): 306.9985 sec
+Starting parallel pool (parpool) using the 'local' profile ...
+connected to 6 workers.
+Disimilarity calc progress: (1/153), 0.654%, calc-time: 101.174 sec
+Saving 59589 tforms out of 144248 total tforms (valid: 59589)
+Disimilarity calc progress: (2/153), 1.307%, calc-time: 20.131 sec
+Saving 81075 tforms out of 173932 total tforms (valid: 81075)
+Disimilarity calc progress: (3/153), 1.961%, calc-time: 16.074 sec
+Saving 68340 tforms out of 155632 total tforms (valid: 68340)
+Disimilarity calc progress: (4/153), 2.614%, calc-time: 13.768 sec
+Saving 55502 tforms out of 136197 total tforms (valid: 55502)
+Disimilarity calc progress: (5/153), 3.268%, calc-time: 14.329 sec
+Saving 64773 tforms out of 144809 total tforms (valid: 64773)
+Disimilarity calc progress: (6/153), 3.922%, calc-time: 15.213 sec
+Saving 67970 tforms out of 150538 total tforms (valid: 67970)
+Disimilarity calc progress: (7/153), 4.575%, calc-time: 9.740 sec
+Saving 26062 tforms out of 115650 total tforms (valid: 26062)
+Disimilarity calc progress: (8/153), 5.229%, calc-time: 10.700 sec
+Saving 34941 tforms out of 121799 total tforms (valid: 34941)
+Disimilarity calc progress: (9/153), 5.882%, calc-time: 11.413 sec
+Saving 43856 tforms out of 129639 total tforms (valid: 43856)
+Disimilarity calc progress: (10/153), 6.536%, calc-time: 13.294 sec
+Saving 52590 tforms out of 137990 total tforms (valid: 52590)
+Disimilarity calc progress: (11/153), 7.190%, calc-time: 21.227 sec
+Saving 76818 tforms out of 172619 total tforms (valid: 76818)
+Disimilarity calc progress: (12/153), 7.843%, calc-time: 12.384 sec
+Saving 49529 tforms out of 125046 total tforms (valid: 49529)
+Disimilarity calc progress: (13/153), 8.497%, calc-time: 18.666 sec
+Saving 78551 tforms out of 160589 total tforms (valid: 78551)
+Disimilarity calc progress: (14/153), 9.150%, calc-time: 16.182 sec
+Saving 71720 tforms out of 154593 total tforms (valid: 71720)
+Disimilarity calc progress: (15/153), 9.804%, calc-time: 14.386 sec
+Saving 56278 tforms out of 149639 total tforms (valid: 56278)
+Disimilarity calc progress: (16/153), 10.458%, calc-time: 10.947 sec
+Saving 35870 tforms out of 127628 total tforms (valid: 35870)
+Disimilarity calc progress: (17/153), 11.111%, calc-time: 11.473 sec
+Saving 37570 tforms out of 128480 total tforms (valid: 37570)
+Disimilarity calc progress: (18/153), 11.765%, calc-time: 17.707 sec
+Saving 76721 tforms out of 159750 total tforms (valid: 76721)
+Disimilarity calc progress: (19/153), 12.418%, calc-time: 14.909 sec
+Saving 65190 tforms out of 142415 total tforms (valid: 65190)
+Disimilarity calc progress: (20/153), 13.072%, calc-time: 11.425 sec
+Saving 51404 tforms out of 124097 total tforms (valid: 51404)
+Disimilarity calc progress: (21/153), 13.725%, calc-time: 10.537 sec
+Saving 57528 tforms out of 132317 total tforms (valid: 57528)
+Disimilarity calc progress: (22/153), 14.379%, calc-time: 15.036 sec
+Saving 64105 tforms out of 137684 total tforms (valid: 64105)
+Disimilarity calc progress: (23/153), 15.033%, calc-time: 8.340 sec
+Saving 24992 tforms out of 104593 total tforms (valid: 24992)
+Disimilarity calc progress: (24/153), 15.686%, calc-time: 6.896 sec
+Saving 32920 tforms out of 110614 total tforms (valid: 32920)
+Disimilarity calc progress: (25/153), 16.340%, calc-time: 8.885 sec
+Saving 41813 tforms out of 118181 total tforms (valid: 41813)
+Disimilarity calc progress: (26/153), 16.993%, calc-time: 12.261 sec
+Saving 48668 tforms out of 125983 total tforms (valid: 48668)
+Disimilarity calc progress: (27/153), 17.647%, calc-time: 19.603 sec
+Saving 73044 tforms out of 158524 total tforms (valid: 73044)
+Disimilarity calc progress: (28/153), 18.301%, calc-time: 10.381 sec
+Saving 47413 tforms out of 113505 total tforms (valid: 47413)
+Disimilarity calc progress: (29/153), 18.954%, calc-time: 15.658 sec
+Saving 74487 tforms out of 147970 total tforms (valid: 74487)
+Disimilarity calc progress: (30/153), 19.608%, calc-time: 15.057 sec
+Saving 68060 tforms out of 141516 total tforms (valid: 68060)
+Disimilarity calc progress: (31/153), 20.261%, calc-time: 14.326 sec
+Saving 56306 tforms out of 137008 total tforms (valid: 56306)
+Disimilarity calc progress: (32/153), 20.915%, calc-time: 10.760 sec
+Saving 33849 tforms out of 115845 total tforms (valid: 33849)
+Disimilarity calc progress: (33/153), 21.569%, calc-time: 10.631 sec
+Saving 35655 tforms out of 116801 total tforms (valid: 35655)
+Disimilarity calc progress: (34/153), 22.222%, calc-time: 23.964 sec
+Saving 83621 tforms out of 211086 total tforms (valid: 83621)
+Disimilarity calc progress: (35/153), 22.876%, calc-time: 19.921 sec
+Saving 69704 tforms out of 188844 total tforms (valid: 69704)
+Disimilarity calc progress: (36/153), 23.529%, calc-time: 21.821 sec
+Saving 81629 tforms out of 198694 total tforms (valid: 81629)
+Disimilarity calc progress: (37/153), 24.183%, calc-time: 22.974 sec
+Saving 89181 tforms out of 205056 total tforms (valid: 89181)
+Disimilarity calc progress: (38/153), 24.837%, calc-time: 14.267 sec
+Saving 35620 tforms out of 165113 total tforms (valid: 35620)
+Disimilarity calc progress: (39/153), 25.490%, calc-time: 15.752 sec
+Saving 45839 tforms out of 172186 total tforms (valid: 45839)
+Disimilarity calc progress: (40/153), 26.144%, calc-time: 17.472 sec
+Saving 57047 tforms out of 181172 total tforms (valid: 57047)
+Disimilarity calc progress: (41/153), 26.797%, calc-time: 19.891 sec
+Saving 65587 tforms out of 190805 total tforms (valid: 65587)
+Disimilarity calc progress: (42/153), 27.451%, calc-time: 28.723 sec
+Saving 86368 tforms out of 230667 total tforms (valid: 86368)
+Disimilarity calc progress: (43/153), 28.105%, calc-time: 18.116 sec
+Saving 64268 tforms out of 175918 total tforms (valid: 64268)
+Disimilarity calc progress: (44/153), 28.758%, calc-time: 23.463 sec
+Saving 93032 tforms out of 216772 total tforms (valid: 93032)
+Disimilarity calc progress: (45/153), 29.412%, calc-time: 23.663 sec
+Saving 98632 tforms out of 210039 total tforms (valid: 98632)
+Disimilarity calc progress: (46/153), 30.065%, calc-time: 22.994 sec
+Saving 70398 tforms out of 204503 total tforms (valid: 70398)
+Disimilarity calc progress: (47/153), 30.719%, calc-time: 16.127 sec
+Saving 45927 tforms out of 178783 total tforms (valid: 45927)
+Disimilarity calc progress: (48/153), 31.373%, calc-time: 15.990 sec
+Saving 48701 tforms out of 179843 total tforms (valid: 48701)
+Disimilarity calc progress: (49/153), 32.026%, calc-time: 13.335 sec
+Saving 61712 tforms out of 144173 total tforms (valid: 61712)
+Disimilarity calc progress: (50/153), 32.680%, calc-time: 15.293 sec
+Saving 70346 tforms out of 152868 total tforms (valid: 70346)
+Disimilarity calc progress: (51/153), 33.333%, calc-time: 16.932 sec
+Saving 72987 tforms out of 158686 total tforms (valid: 72987)
+Disimilarity calc progress: (52/153), 33.987%, calc-time: 10.086 sec
+Saving 30770 tforms out of 123206 total tforms (valid: 30770)
+Disimilarity calc progress: (53/153), 34.641%, calc-time: 11.537 sec
+Saving 40404 tforms out of 129790 total tforms (valid: 40404)
+Disimilarity calc progress: (54/153), 35.294%, calc-time: 13.095 sec
+Saving 50933 tforms out of 137788 total tforms (valid: 50933)
+Disimilarity calc progress: (55/153), 35.948%, calc-time: 14.016 sec
+Saving 59287 tforms out of 146114 total tforms (valid: 59287)
+Disimilarity calc progress: (56/153), 36.601%, calc-time: 20.937 sec
+Saving 76698 tforms out of 180717 total tforms (valid: 76698)
+Disimilarity calc progress: (57/153), 37.255%, calc-time: 11.911 sec
+Saving 56708 tforms out of 133146 total tforms (valid: 56708)
+Disimilarity calc progress: (58/153), 37.908%, calc-time: 17.080 sec
+Saving 83145 tforms out of 169115 total tforms (valid: 83145)
+Disimilarity calc progress: (59/153), 38.562%, calc-time: 17.230 sec
+Saving 72872 tforms out of 163026 total tforms (valid: 72872)
+Disimilarity calc progress: (60/153), 39.216%, calc-time: 16.212 sec
+Saving 62588 tforms out of 157641 total tforms (valid: 62588)
+Disimilarity calc progress: (61/153), 39.869%, calc-time: 12.392 sec
+Saving 40962 tforms out of 135446 total tforms (valid: 40962)
+Disimilarity calc progress: (62/153), 40.523%, calc-time: 12.180 sec
+Saving 43438 tforms out of 136314 total tforms (valid: 43438)
+Disimilarity calc progress: (63/153), 41.176%, calc-time: 10.985 sec
+Saving 54133 tforms out of 112808 total tforms (valid: 54133)
+Disimilarity calc progress: (64/153), 41.830%, calc-time: 12.075 sec
+Saving 58127 tforms out of 117801 total tforms (valid: 58127)
+Disimilarity calc progress: (65/153), 42.484%, calc-time: 7.150 sec
+Saving 24222 tforms out of 87683 total tforms (valid: 24222)
+Disimilarity calc progress: (66/153), 43.137%, calc-time: 7.846 sec
+Saving 31983 tforms out of 92998 total tforms (valid: 31983)
+Disimilarity calc progress: (67/153), 43.791%, calc-time: 8.658 sec
+Saving 40344 tforms out of 99870 total tforms (valid: 40344)
+Disimilarity calc progress: (68/153), 44.444%, calc-time: 9.698 sec
+Saving 48298 tforms out of 107065 total tforms (valid: 48298)
+Disimilarity calc progress: (69/153), 45.098%, calc-time: 15.442 sec
+Saving 65365 tforms out of 136418 total tforms (valid: 65365)
+Disimilarity calc progress: (70/153), 45.752%, calc-time: 8.232 sec
+Saving 45184 tforms out of 95595 total tforms (valid: 45184)
+Disimilarity calc progress: (71/153), 46.405%, calc-time: 10.815 sec
+Saving 67456 tforms out of 126789 total tforms (valid: 67456)
+Disimilarity calc progress: (72/153), 47.059%, calc-time: 12.431 sec
+Saving 60066 tforms out of 121234 total tforms (valid: 60066)
+Disimilarity calc progress: (73/153), 47.712%, calc-time: 11.576 sec
+Saving 56701 tforms out of 116863 total tforms (valid: 56701)
+Disimilarity calc progress: (74/153), 48.366%, calc-time: 8.293 sec
+Saving 33086 tforms out of 97949 total tforms (valid: 33086)
+Disimilarity calc progress: (75/153), 49.020%, calc-time: 8.318 sec
+Saving 34877 tforms out of 98645 total tforms (valid: 34877)
+Disimilarity calc progress: (76/153), 49.673%, calc-time: 11.005 sec
+Saving 68470 tforms out of 139400 total tforms (valid: 68470)
+Disimilarity calc progress: (77/153), 50.327%, calc-time: 8.505 sec
+Saving 26756 tforms out of 106082 total tforms (valid: 26756)
+Disimilarity calc progress: (78/153), 50.980%, calc-time: 9.122 sec
+Saving 34903 tforms out of 111954 total tforms (valid: 34903)
+Disimilarity calc progress: (79/153), 51.634%, calc-time: 10.719 sec
+Saving 43199 tforms out of 119585 total tforms (valid: 43199)
+Disimilarity calc progress: (80/153), 52.288%, calc-time: 11.462 sec
+Saving 51063 tforms out of 127565 total tforms (valid: 51063)
+Disimilarity calc progress: (81/153), 52.941%, calc-time: 18.629 sec
+Saving 77058 tforms out of 159997 total tforms (valid: 77058)
+Disimilarity calc progress: (82/153), 53.595%, calc-time: 10.224 sec
+Saving 49816 tforms out of 115351 total tforms (valid: 49816)
+Disimilarity calc progress: (83/153), 54.248%, calc-time: 15.040 sec
+Saving 78678 tforms out of 149466 total tforms (valid: 78678)
+Disimilarity calc progress: (84/153), 54.902%, calc-time: 14.976 sec
+Saving 72176 tforms out of 143573 total tforms (valid: 72176)
+Disimilarity calc progress: (85/153), 55.556%, calc-time: 13.077 sec
+Saving 60943 tforms out of 138581 total tforms (valid: 60943)
+Disimilarity calc progress: (86/153), 56.209%, calc-time: 9.859 sec
+Saving 35177 tforms out of 117296 total tforms (valid: 35177)
+Disimilarity calc progress: (87/153), 56.863%, calc-time: 9.977 sec
+Saving 37427 tforms out of 118251 total tforms (valid: 37427)
+Disimilarity calc progress: (88/153), 57.516%, calc-time: 9.506 sec
+Saving 28150 tforms out of 122381 total tforms (valid: 28150)
+Disimilarity calc progress: (89/153), 58.170%, calc-time: 7.737 sec
+Saving 37118 tforms out of 128761 total tforms (valid: 37118)
+Disimilarity calc progress: (90/153), 58.824%, calc-time: 12.216 sec
+Saving 46490 tforms out of 137010 total tforms (valid: 46490)
+Disimilarity calc progress: (91/153), 59.477%, calc-time: 13.290 sec
+Saving 55252 tforms out of 145592 total tforms (valid: 55252)
+Disimilarity calc progress: (92/153), 60.131%, calc-time: 19.469 sec
+Saving 85087 tforms out of 180929 total tforms (valid: 85087)
+Disimilarity calc progress: (93/153), 60.784%, calc-time: 11.240 sec
+Saving 51974 tforms out of 131842 total tforms (valid: 51974)
+Disimilarity calc progress: (94/153), 61.438%, calc-time: 17.975 sec
+Saving 85196 tforms out of 169278 total tforms (valid: 85196)
+Disimilarity calc progress: (95/153), 62.092%, calc-time: 16.665 sec
+Saving 79454 tforms out of 162589 total tforms (valid: 79454)
+Disimilarity calc progress: (96/153), 62.745%, calc-time: 15.458 sec
+Saving 60215 tforms out of 157300 total tforms (valid: 60215)
+Disimilarity calc progress: (97/153), 63.399%, calc-time: 11.586 sec
+Saving 37943 tforms out of 134592 total tforms (valid: 37943)
+Disimilarity calc progress: (98/153), 64.052%, calc-time: 11.746 sec
+Saving 39593 tforms out of 135381 total tforms (valid: 39593)
+Disimilarity calc progress: (99/153), 64.706%, calc-time: 4.583 sec
+Saving 21368 tforms out of 49186 total tforms (valid: 21368)
+Disimilarity calc progress: (100/153), 65.359%, calc-time: 5.659 sec
+Saving 24820 tforms out of 53694 total tforms (valid: 24820)
+Disimilarity calc progress: (101/153), 66.013%, calc-time: 4.031 sec
+Saving 26302 tforms out of 58562 total tforms (valid: 26302)
+Disimilarity calc progress: (102/153), 66.667%, calc-time: 9.140 sec
+Saving 32646 tforms out of 78225 total tforms (valid: 32646)
+Disimilarity calc progress: (103/153), 67.320%, calc-time: 5.141 sec
+Saving 23184 tforms out of 50923 total tforms (valid: 23184)
+Disimilarity calc progress: (104/153), 67.974%, calc-time: 8.842 sec
+Saving 33480 tforms out of 71425 total tforms (valid: 33480)
+Disimilarity calc progress: (105/153), 68.627%, calc-time: 7.680 sec
+Saving 29943 tforms out of 68007 total tforms (valid: 29943)
+Disimilarity calc progress: (106/153), 69.281%, calc-time: 7.075 sec
+Saving 28969 tforms out of 65136 total tforms (valid: 28969)
+Disimilarity calc progress: (107/153), 69.935%, calc-time: 5.198 sec
+Saving 21701 tforms out of 52498 total tforms (valid: 21701)
+Disimilarity calc progress: (108/153), 70.588%, calc-time: 3.662 sec
+Saving 23412 tforms out of 52910 total tforms (valid: 23412)
+Disimilarity calc progress: (109/153), 71.242%, calc-time: 6.484 sec
+Saving 32560 tforms out of 66289 total tforms (valid: 32560)
+Disimilarity calc progress: (110/153), 71.895%, calc-time: 7.103 sec
+Saving 34642 tforms out of 71825 total tforms (valid: 34642)
+Disimilarity calc progress: (111/153), 72.549%, calc-time: 10.649 sec
+Saving 42537 tforms out of 94678 total tforms (valid: 42537)
+Disimilarity calc progress: (112/153), 73.203%, calc-time: 6.085 sec
+Saving 30322 tforms out of 63391 total tforms (valid: 30322)
+Disimilarity calc progress: (113/153), 73.856%, calc-time: 7.041 sec
+Saving 43932 tforms out of 87287 total tforms (valid: 43932)
+Disimilarity calc progress: (114/153), 74.510%, calc-time: 8.804 sec
+Saving 38785 tforms out of 82764 total tforms (valid: 38785)
+Disimilarity calc progress: (115/153), 75.163%, calc-time: 8.520 sec
+Saving 37666 tforms out of 79395 total tforms (valid: 37666)
+Disimilarity calc progress: (116/153), 75.817%, calc-time: 6.167 sec
+Saving 28174 tforms out of 64904 total tforms (valid: 28174)
+Disimilarity calc progress: (117/153), 76.471%, calc-time: 953.924 sec
+Saving 30146 tforms out of 65638 total tforms (valid: 30146)
+Disimilarity calc progress: (118/153), 77.124%, calc-time: 6.118 sec
+Saving 43304 tforms out of 88817 total tforms (valid: 43304)
+Disimilarity calc progress: (119/153), 77.778%, calc-time: 10.439 sec
+Saving 52445 tforms out of 115021 total tforms (valid: 52445)
+Disimilarity calc progress: (120/153), 78.431%, calc-time: 4.826 sec
+Saving 42122 tforms out of 78973 total tforms (valid: 42122)
+Disimilarity calc progress: (121/153), 79.085%, calc-time: 8.210 sec
+Saving 55353 tforms out of 106314 total tforms (valid: 55353)
+Disimilarity calc progress: (122/153), 79.739%, calc-time: 7.793 sec
+Saving 48181 tforms out of 101291 total tforms (valid: 48181)
+Disimilarity calc progress: (123/153), 80.392%, calc-time: 6.765 sec
+Saving 46693 tforms out of 97640 total tforms (valid: 46693)
+Disimilarity calc progress: (124/153), 81.046%, calc-time: 4.588 sec
+Saving 32786 tforms out of 80982 total tforms (valid: 32786)
+Disimilarity calc progress: (125/153), 81.699%, calc-time: 4.667 sec
+Saving 35061 tforms out of 81577 total tforms (valid: 35061)
+Disimilarity calc progress: (126/153), 82.353%, calc-time: 11.414 sec
+Saving 60997 tforms out of 136688 total tforms (valid: 60997)
+Disimilarity calc progress: (127/153), 83.007%, calc-time: 7.231 sec
+Saving 47700 tforms out of 96543 total tforms (valid: 47700)
+Disimilarity calc progress: (128/153), 83.660%, calc-time: 10.661 sec
+Saving 64490 tforms out of 127118 total tforms (valid: 64490)
+Disimilarity calc progress: (129/153), 84.314%, calc-time: 9.779 sec
+Saving 56506 tforms out of 121669 total tforms (valid: 56506)
+Disimilarity calc progress: (130/153), 84.967%, calc-time: 11.398 sec
+Saving 54293 tforms out of 117284 total tforms (valid: 54293)
+Disimilarity calc progress: (131/153), 85.621%, calc-time: 8.583 sec
+Saving 35805 tforms out of 98439 total tforms (valid: 35805)
+Disimilarity calc progress: (132/153), 86.275%, calc-time: 9.027 sec
+Saving 37793 tforms out of 99422 total tforms (valid: 37793)
+Disimilarity calc progress: (133/153), 86.928%, calc-time: 15.593 sec
+Saving 59646 tforms out of 181496 total tforms (valid: 59646)
+Disimilarity calc progress: (134/153), 87.582%, calc-time: 24.779 sec
+Saving 85901 tforms out of 223028 total tforms (valid: 85901)
+Disimilarity calc progress: (135/153), 88.235%, calc-time: 23.493 sec
+Saving 95103 tforms out of 215885 total tforms (valid: 95103)
+Disimilarity calc progress: (136/153), 88.889%, calc-time: 20.028 sec
+Saving 65818 tforms out of 210645 total tforms (valid: 65818)
+Disimilarity calc progress: (137/153), 89.542%, calc-time: 52.087 sec
+Saving 42216 tforms out of 184271 total tforms (valid: 42216)
+Disimilarity calc progress: (138/153), 90.196%, calc-time: 15.185 sec
+Saving 44147 tforms out of 185241 total tforms (valid: 44147)
+Disimilarity calc progress: (139/153), 90.850%, calc-time: 8.441 sec
+Saving 61252 tforms out of 104110 total tforms (valid: 61252)
+Disimilarity calc progress: (140/153), 91.503%, calc-time: 7.064 sec
+Saving 54565 tforms out of 98801 total tforms (valid: 54565)
+Disimilarity calc progress: (141/153), 92.157%, calc-time: 6.207 sec
+Saving 52983 tforms out of 95142 total tforms (valid: 52983)
+Disimilarity calc progress: (142/153), 92.810%, calc-time: 3.941 sec
+Saving 33068 tforms out of 77984 total tforms (valid: 33068)
+Disimilarity calc progress: (143/153), 93.464%, calc-time: 4.132 sec
+Saving 35081 tforms out of 78740 total tforms (valid: 35081)
+Disimilarity calc progress: (144/153), 94.118%, calc-time: 14.264 sec
+Saving 89537 tforms out of 177942 total tforms (valid: 89537)
+Disimilarity calc progress: (145/153), 94.771%, calc-time: 12.479 sec
+Saving 70200 tforms out of 171807 total tforms (valid: 70200)
+Disimilarity calc progress: (146/153), 95.425%, calc-time: 9.193 sec
+Saving 44735 tforms out of 148501 total tforms (valid: 44735)
+Disimilarity calc progress: (147/153), 96.078%, calc-time: 9.939 sec
+Saving 47452 tforms out of 149382 total tforms (valid: 47452)
+Disimilarity calc progress: (148/153), 96.732%, calc-time: 17.380 sec
+Saving 61841 tforms out of 176025 total tforms (valid: 61841)
+Disimilarity calc progress: (149/153), 97.386%, calc-time: 12.814 sec
+Saving 39037 tforms out of 151532 total tforms (valid: 39037)
+Disimilarity calc progress: (150/153), 98.039%, calc-time: 13.586 sec
+Saving 41151 tforms out of 152670 total tforms (valid: 41151)
+Disimilarity calc progress: (151/153), 98.693%, calc-time: 11.302 sec
+Saving 38129 tforms out of 119468 total tforms (valid: 38129)
+Disimilarity calc progress: (152/153), 99.346%, calc-time: 10.271 sec
+Saving 40274 tforms out of 120369 total tforms (valid: 40274)
+Disimilarity calc progress: (153/153), 100.000%, calc-time: 7.084 sec
+Saving 28098 tforms out of 73056 total tforms (valid: 28098)
+Total Dissimilarity Time: 59 min, 29.014 sec
+Using dissimilarity version: 2
+----------------------
+Conf options: iou_thresh: 0.850, gamma_L: 0.300, gamma_H: 0.850
+----------------------
+-------------Starting confidence--------------
+Confidence Performance: Avg calc time for each pair: 2.896 sec, Total: 443.070 sec
+----------------------
+Reassemb options: gamma_L: 0.300, gamma_H: 0.850, samp_res: 5, iou_thresh: 0.850, sorted_1st_pair_i: 1
+----------------------
+-------------Starting reassembly--------------
+[Warning: <a href="matlab: opentoline('C:\Users\hovav.TD-EF\Desktop\Niv\Reassembly2d_Sources\Main\reassembly.m',682,29)">File: reassembly.m Line: 682 Column: 29
+</a>The temporary variable pqr_cs_fnl will be cleared at the beginning of each iteration of the parfor loop.
+Any value assigned to it before the loop will be lost.  If pqr_cs_fnl is used before it is assigned in the parfor loop, a runtime
+error will occur.
+See <a href="matlab: helpview([docroot '/distcomp/distcomp_ug.map'],'PARFOR_TEMPORARY_VARIABLES')">Parallel for Loops in MATLAB, "Temporary Variables"</a>.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('assembly_main', 'C:\Users\hovav.TD-EF\Desktop\Niv\Reassembly2d_Sources\assembly_main.m', 113)" style="font-weight:bold">assembly_main</a> (<a href="matlab: opentoline('C:\Users\hovav.TD-EF\Desktop\Niv\Reassembly2d_Sources\assembly_main.m',113,0)">line 113</a>)] 
+[Warning: <a href="matlab: opentoline('C:\Users\hovav.TD-EF\Desktop\Niv\Reassembly2d_Sources\Main\reassembly.m',692,29)">File: reassembly.m Line: 692 Column: 29
+</a>The temporary variable pqr_cs_ex_fnl will be cleared at the beginning of each iteration of the parfor loop.
+Any value assigned to it before the loop will be lost.  If pqr_cs_ex_fnl is used before it is assigned in the parfor loop, a
+runtime error will occur.
+See <a href="matlab: helpview([docroot '/distcomp/distcomp_ug.map'],'PARFOR_TEMPORARY_VARIABLES')">Parallel for Loops in MATLAB, "Temporary Variables"</a>.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('assembly_main', 'C:\Users\hovav.TD-EF\Desktop\Niv\Reassembly2d_Sources\assembly_main.m', 113)" style="font-weight:bold">assembly_main</a> (<a href="matlab: opentoline('C:\Users\hovav.TD-EF\Desktop\Niv\Reassembly2d_Sources\assembly_main.m',113,0)">line 113</a>)] 
+[Warning: <a href="matlab: opentoline('C:\Users\hovav.TD-EF\Desktop\Niv\Reassembly2d_Sources\Main\reassembly.m',784,29)">File: reassembly.m Line: 784 Column: 29
+</a>The temporary variable pqr_cs_ex_fnl will be cleared at the beginning of each iteration of the parfor loop.
+Any value assigned to it before the loop will be lost.  If pqr_cs_ex_fnl is used before it is assigned in the parfor loop, a
+runtime error will occur.
+See <a href="matlab: helpview([docroot '/distcomp/distcomp_ug.map'],'PARFOR_TEMPORARY_VARIABLES')">Parallel for Loops in MATLAB, "Temporary Variables"</a>.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('assembly_main', 'C:\Users\hovav.TD-EF\Desktop\Niv\Reassembly2d_Sources\assembly_main.m', 113)" style="font-weight:bold">assembly_main</a> (<a href="matlab: opentoline('C:\Users\hovav.TD-EF\Desktop\Niv\Reassembly2d_Sources\assembly_main.m',113,0)">line 113</a>)] 
+Reassemb in progress... Fragments placed: 0, Fragments remaining: 18
+fragment 17 absolute selected sampled tform (before refine): [85 -93 -94.5]
+best score props: disP=0.0699, disq=0.0602, a*f(D(P,q))=0.0000, score=0.1301
+fragment 17 absolute selected sampled tform (after refine): [83 -94 -95]
+Reassemb in progress... Fragments placed: 2, Fragments remaining: 16
+multi fragment matching translations validation finished. time: 8.981 s
+after dis re-calc on frag cand 1 for multi frag ov, saving 4007/8312 tforms for confidence
+after dis re-calc on frag cand 2 for multi frag ov, saving 3747/7171 tforms for confidence
+after dis re-calc on frag cand 3 for multi frag ov, saving 4515/11872 tforms for confidence
+after dis re-calc on frag cand 4 for multi frag ov, saving 4004/9424 tforms for confidence
+after dis re-calc on frag cand 5 for multi frag ov, saving 4247/6462 tforms for confidence
+after dis re-calc on frag cand 6 for multi frag ov, saving 3704/7376 tforms for confidence
+after dis re-calc on frag cand 7 for multi frag ov, saving 3939/8980 tforms for confidence
+after dis re-calc on frag cand 8 for multi frag ov, saving 1975/2669 tforms for confidence
+after dis re-calc on frag cand 9 for multi frag ov, saving 3059/3985 tforms for confidence
+after dis re-calc on frag cand 10 for multi frag ov, saving 3912/5554 tforms for confidence
+after dis re-calc on frag cand 12 for multi frag ov, saving 4003/9993 tforms for confidence
+after dis re-calc on frag cand 13 for multi frag ov, saving 4902/6329 tforms for confidence
+after dis re-calc on frag cand 14 for multi frag ov, saving 4244/10013 tforms for confidence
+after dis re-calc on frag cand 15 for multi frag ov, saving 3724/8666 tforms for confidence
+after dis re-calc on frag cand 16 for multi frag ov, saving 3553/7770 tforms for confidence
+after dis re-calc on frag cand 18 for multi frag ov, saving 3296/4853 tforms for confidence
+Preparing dis_info for confidence. time: 72.981 sec
+Confidence Performance: Avg calc time for each pair: 2.414 sec, Total: 115.865 sec
+confidence calculation finished. time: 115.941 sec
+fragment 12 was chosen as next piece with conf: 0.125. Matched with fragments: 11
+fragment 12 absolute selected sampled tform (before refine): [-220 148.5 67.5]
+best score props: disP=0.0749, disq=0.0944, a*f(D(P,q))=0.0000, score=0.1693
+fragment 12 absolute selected sampled tform (after refine): [-220 145.5 69.5]
+Reassemb in progress... Fragments placed: 3, Fragments remaining: 15
+multi fragment matching translations validation finished. time: 12.889 s
+after dis re-calc on frag cand 1 for multi frag ov, saving 10230/15457 tforms for confidence
+after dis re-calc on frag cand 2 for multi frag ov, saving 8638/13723 tforms for confidence
+after dis re-calc on frag cand 3 for multi frag ov, saving 7586/20291 tforms for confidence
+after dis re-calc on frag cand 4 for multi frag ov, saving 10410/16965 tforms for confidence
+after dis re-calc on frag cand 5 for multi frag ov, saving 9399/12395 tforms for confidence
+after dis re-calc on frag cand 6 for multi frag ov, saving 9889/14540 tforms for confidence
+after dis re-calc on frag cand 7 for multi frag ov, saving 10898/17090 tforms for confidence
+after dis re-calc on frag cand 8 for multi frag ov, saving 4085/5159 tforms for confidence
+after dis re-calc on frag cand 9 for multi frag ov, saving 6040/7454 tforms for confidence
+after dis re-calc on frag cand 10 for multi frag ov, saving 7500/10103 tforms for confidence
+after dis re-calc on frag cand 13 for multi frag ov, saving 10150/13235 tforms for confidence
+after dis re-calc on frag cand 14 for multi frag ov, saving 10598/19026 tforms for confidence
+after dis re-calc on frag cand 15 for multi frag ov, saving 10380/16610 tforms for confidence
+after dis re-calc on frag cand 16 for multi frag ov, saving 8755/15057 tforms for confidence
+after dis re-calc on frag cand 18 for multi frag ov, saving 6563/10121 tforms for confidence
+Preparing dis_info for confidence. time: 3354.055 sec
+Confidence Performance: Avg calc time for each pair: 0.880 sec, Total: 52.790 sec
+confidence calculation finished. time: 52.812 sec
+fragment 10 was chosen as next piece with conf: 0.106. Matched with fragments: [11;12]
+fragment 10 absolute selected sampled tform (before refine): [-163 -18.5 68.5]
+best score props: disP=0.0379, disq=0.0462, a*f(D(P,q))=0.0000, score=0.0840
+fragment 10 absolute selected sampled tform (after refine): [-161 -15.5 71]
+Reassemb in progress... Fragments placed: 4, Fragments remaining: 14
+multi fragment matching translations validation finished. time: 14.372 s
+after dis re-calc on frag cand 1 for multi frag ov, saving 10077/14032 tforms for confidence
+after dis re-calc on frag cand 2 for multi frag ov, saving 8141/12855 tforms for confidence
+after dis re-calc on frag cand 3 for multi frag ov, saving 7615/19497 tforms for confidence
+after dis re-calc on frag cand 4 for multi frag ov, saving 10356/15245 tforms for confidence
+after dis re-calc on frag cand 5 for multi frag ov, saving 9375/11653 tforms for confidence
+after dis re-calc on frag cand 6 for multi frag ov, saving 9821/13677 tforms for confidence
+after dis re-calc on frag cand 7 for multi frag ov, saving 10499/15228 tforms for confidence
+after dis re-calc on frag cand 8 for multi frag ov, saving 4556/5326 tforms for confidence
+after dis re-calc on frag cand 9 for multi frag ov, saving 6704/7524 tforms for confidence
+after dis re-calc on frag cand 13 for multi frag ov, saving 10743/13055 tforms for confidence
+after dis re-calc on frag cand 14 for multi frag ov, saving 11495/17003 tforms for confidence
+after dis re-calc on frag cand 15 for multi frag ov, saving 9438/15023 tforms for confidence
+after dis re-calc on frag cand 16 for multi frag ov, saving 8825/13729 tforms for confidence
+after dis re-calc on frag cand 18 for multi frag ov, saving 6886/10097 tforms for confidence
+Preparing dis_info for confidence. time: 820.062 sec
+Confidence Performance: Avg calc time for each pair: 1.199 sec, Total: 83.949 sec
+confidence calculation finished. time: 84.017 sec
+fragment 9 was chosen as next piece with conf: 0.133. Matched with fragments: [10;11;17]
+fragment 9 absolute selected sampled tform (before refine): [-51 -198 75.5]
+best score props: disP=0.0465, disq=0.0519, a*f(D(P,q))=0.0000, score=0.0984
+fragment 9 absolute selected sampled tform (after refine): [-50 -200 74]
+Reassemb in progress... Fragments placed: 5, Fragments remaining: 13
+multi fragment matching translations validation finished. time: 5.856 s
+after dis re-calc on frag cand 1 for multi frag ov, saving 10339/17210 tforms for confidence
+after dis re-calc on frag cand 2 for multi frag ov, saving 8954/15554 tforms for confidence
+after dis re-calc on frag cand 3 for multi frag ov, saving 7724/23479 tforms for confidence
+after dis re-calc on frag cand 4 for multi frag ov, saving 10841/18902 tforms for confidence
+after dis re-calc on frag cand 5 for multi frag ov, saving 10115/13849 tforms for confidence
+after dis re-calc on frag cand 6 for multi frag ov, saving 10366/16599 tforms for confidence
+after dis re-calc on frag cand 7 for multi frag ov, saving 11048/18903 tforms for confidence
+after dis re-calc on frag cand 8 for multi frag ov, saving 5102/6074 tforms for confidence
+after dis re-calc on frag cand 13 for multi frag ov, saving 11332/13744 tforms for confidence
+after dis re-calc on frag cand 14 for multi frag ov, saving 10996/19424 tforms for confidence
+after dis re-calc on frag cand 15 for multi frag ov, saving 10075/17190 tforms for confidence
+after dis re-calc on frag cand 16 for multi frag ov, saving 8988/15545 tforms for confidence
+after dis re-calc on frag cand 18 for multi frag ov, saving 7940/11314 tforms for confidence
+Preparing dis_info for confidence. time: 62.314 sec
+Confidence Performance: Avg calc time for each pair: 10.667 sec, Total: 832.000 sec
+confidence calculation finished. time: 832.034 sec
+fragment 6 was chosen as next piece with conf: 0.086. Matched with fragments: [10;12]
+fragment 6 absolute selected sampled tform (before refine): [-361.5 -51 20.75]
+best score props: disP=0.0439, disq=0.0491, a*f(D(P,q))=0.0000, score=0.0930
+fragment 6 absolute selected sampled tform (after refine): [-367.5 -46 20.75]
+Reassemb in progress... Fragments placed: 6, Fragments remaining: 12
+multi fragment matching translations validation finished. time: 6.114 s
+after dis re-calc on frag cand 1 for multi frag ov, saving 11529/17947 tforms for confidence
+after dis re-calc on frag cand 2 for multi frag ov, saving 10829/16883 tforms for confidence
+after dis re-calc on frag cand 3 for multi frag ov, saving 9929/25903 tforms for confidence
+after dis re-calc on frag cand 4 for multi frag ov, saving 11869/19564 tforms for confidence
+after dis re-calc on frag cand 5 for multi frag ov, saving 10653/14122 tforms for confidence
+after dis re-calc on frag cand 7 for multi frag ov, saving 12403/19566 tforms for confidence
+after dis re-calc on frag cand 8 for multi frag ov, saving 5790/7102 tforms for confidence
+after dis re-calc on frag cand 13 for multi frag ov, saving 11876/14811 tforms for confidence
+after dis re-calc on frag cand 14 for multi frag ov, saving 11879/20829 tforms for confidence
+after dis re-calc on frag cand 15 for multi frag ov, saving 12616/19812 tforms for confidence
+after dis re-calc on frag cand 16 for multi frag ov, saving 10283/17137 tforms for confidence
+after dis re-calc on frag cand 18 for multi frag ov, saving 8313/12092 tforms for confidence
+Preparing dis_info for confidence. time: 156.742 sec
+Confidence Performance: Avg calc time for each pair: 2.824 sec, Total: 237.257 sec
+confidence calculation finished. time: 237.346 sec
+fragment 15 was chosen as next piece with conf: 0.037. Matched with fragments: 12
+fragment 15 absolute selected sampled tform (before refine): [-229.5 284 121.25]
+best score props: disP=0.0360, disq=0.0454, a*f(D(P,q))=0.0000, score=0.0814
+fragment 15 absolute selected sampled tform (after refine): [-236.5 280 123.25]
+Reassemb in progress... Fragments placed: 7, Fragments remaining: 11
+multi fragment matching translations validation finished. time: 19.975 s
+after dis re-calc on frag cand 1 for multi frag ov, saving 17614/25511 tforms for confidence
+after dis re-calc on frag cand 2 for multi frag ov, saving 15959/23757 tforms for confidence
+after dis re-calc on frag cand 3 for multi frag ov, saving 14677/33782 tforms for confidence
+after dis re-calc on frag cand 4 for multi frag ov, saving 17128/26334 tforms for confidence
+after dis re-calc on frag cand 5 for multi frag ov, saving 15277/19614 tforms for confidence
+after dis re-calc on frag cand 7 for multi frag ov, saving 19797/28449 tforms for confidence
+after dis re-calc on frag cand 8 for multi frag ov, saving 7322/9006 tforms for confidence
+after dis re-calc on frag cand 13 for multi frag ov, saving 16304/20100 tforms for confidence
+after dis re-calc on frag cand 14 for multi frag ov, saving 18056/28814 tforms for confidence
+after dis re-calc on frag cand 16 for multi frag ov, saving 14920/24325 tforms for confidence
+after dis re-calc on frag cand 18 for multi frag ov, saving 11023/16928 tforms for confidence
+Preparing dis_info for confidence. time: 249.930 sec
+Confidence Performance: Avg calc time for each pair: 2.831 sec, Total: 249.161 sec
+confidence calculation finished. time: 249.244 sec
+fragment 7 was chosen as next piece with conf: -0.054. Matched with fragments: [6;9;10]
+fragment 7 absolute selected sampled tform (before refine): [-247 -226.5 138.5]
+best score props: disP=0.0482, disq=0.0702, a*f(D(P,q))=0.0000, score=0.1184
+fragment 7 absolute selected sampled tform (after refine): [-244 -227.5 140]
+Reassemb in progress... Fragments placed: 8, Fragments remaining: 10
+multi fragment matching translations validation finished. time: 19.867 s
+after dis re-calc on frag cand 1 for multi frag ov, saving 19748/28440 tforms for confidence
+after dis re-calc on frag cand 2 for multi frag ov, saving 17661/26210 tforms for confidence
+after dis re-calc on frag cand 3 for multi frag ov, saving 16057/38257 tforms for confidence
+after dis re-calc on frag cand 4 for multi frag ov, saving 19291/29523 tforms for confidence
+after dis re-calc on frag cand 5 for multi frag ov, saving 16793/21472 tforms for confidence
+after dis re-calc on frag cand 8 for multi frag ov, saving 7060/9197 tforms for confidence
+after dis re-calc on frag cand 13 for multi frag ov, saving 17228/21491 tforms for confidence
+after dis re-calc on frag cand 14 for multi frag ov, saving 20183/32453 tforms for confidence
+after dis re-calc on frag cand 16 for multi frag ov, saving 16451/26933 tforms for confidence
+after dis re-calc on frag cand 18 for multi frag ov, saving 11348/17688 tforms for confidence
+Preparing dis_info for confidence. time: 251.213 sec
+Confidence Performance: Avg calc time for each pair: 2.490 sec, Total: 224.082 sec
+confidence calculation finished. time: 224.164 sec
+fragment 3 was chosen as next piece with conf: -0.091. Matched with fragments: 6
+fragment 3 absolute selected sampled tform (before refine): [-643 -23 -6.25]
+best score props: disP=0.0677, disq=0.0712, a*f(D(P,q))=0.0000, score=0.1389
+fragment 3 absolute selected sampled tform (after refine): [-640 -34 -4.25]
+Reassemb in progress... Fragments placed: 9, Fragments remaining: 9
+multi fragment matching translations validation finished. time: 20.913 s
+after dis re-calc on frag cand 1 for multi frag ov, saving 17704/25041 tforms for confidence
+after dis re-calc on frag cand 2 for multi frag ov, saving 17418/24469 tforms for confidence
+after dis re-calc on frag cand 4 for multi frag ov, saving 17182/26157 tforms for confidence
+after dis re-calc on frag cand 5 for multi frag ov, saving 16912/21525 tforms for confidence
+after dis re-calc on frag cand 8 for multi frag ov, saving 8802/11891 tforms for confidence
+after dis re-calc on frag cand 13 for multi frag ov, saving 18887/22947 tforms for confidence
+after dis re-calc on frag cand 14 for multi frag ov, saving 17010/26553 tforms for confidence
+after dis re-calc on frag cand 16 for multi frag ov, saving 14725/22525 tforms for confidence
+after dis re-calc on frag cand 18 for multi frag ov, saving 11998/17895 tforms for confidence
+Preparing dis_info for confidence. time: 271.598 sec
+Confidence Performance: Avg calc time for each pair: 2.719 sec, Total: 244.711 sec
+confidence calculation finished. time: 244.738 sec
+fragment 4 was chosen as next piece with conf: 0.131. Matched with fragments: 3
+fragment 4 absolute selected sampled tform (before refine): [-802 158.5 76.75]
+best score props: disP=0.0290, disq=0.0323, a*f(D(P,q))=0.0000, score=0.0613
+fragment 4 absolute selected sampled tform (after refine): [-804 154.5 77.25]
+Reassemb in progress... Fragments placed: 10, Fragments remaining: 8
+multi fragment matching translations validation finished. time: 7.191 s
+after dis re-calc on frag cand 1 for multi frag ov, saving 24781/33520 tforms for confidence
+after dis re-calc on frag cand 2 for multi frag ov, saving 22457/31714 tforms for confidence
+after dis re-calc on frag cand 5 for multi frag ov, saving 22776/30374 tforms for confidence
+after dis re-calc on frag cand 8 for multi frag ov, saving 11663/16882 tforms for confidence
+after dis re-calc on frag cand 13 for multi frag ov, saving 24845/31522 tforms for confidence
+after dis re-calc on frag cand 14 for multi frag ov, saving 24207/36245 tforms for confidence
+after dis re-calc on frag cand 16 for multi frag ov, saving 19643/29768 tforms for confidence
+after dis re-calc on frag cand 18 for multi frag ov, saving 15527/23868 tforms for confidence
+Preparing dis_info for confidence. time: 218.950 sec
+Confidence Performance: Avg calc time for each pair: 2.506 sec, Total: 220.572 sec
+confidence calculation finished. time: 220.592 sec
+fragment 14 was chosen as next piece with conf: 0.073. Matched with fragments: [3;4;12;15]
+fragment 14 absolute selected sampled tform (before refine): [-559.5 310.5 -112.875]
+best score props: disP=0.0512, disq=0.0461, a*f(D(P,q))=0.0000, score=0.0974
+fragment 14 absolute selected sampled tform (after refine): [-555.5 310.5 -112.375]
+Reassemb in progress... Fragments placed: 11, Fragments remaining: 7
+multi fragment matching translations validation finished. time: 20.947 s
+after dis re-calc on frag cand 1 for multi frag ov, saving 24614/33091 tforms for confidence
+after dis re-calc on frag cand 2 for multi frag ov, saving 21735/30201 tforms for confidence
+after dis re-calc on frag cand 5 for multi frag ov, saving 20630/27156 tforms for confidence
+after dis re-calc on frag cand 8 for multi frag ov, saving 8984/12867 tforms for confidence
+after dis re-calc on frag cand 13 for multi frag ov, saving 21247/26330 tforms for confidence
+after dis re-calc on frag cand 16 for multi frag ov, saving 20068/30019 tforms for confidence
+after dis re-calc on frag cand 18 for multi frag ov, saving 14351/21278 tforms for confidence
+Preparing dis_info for confidence. time: 228.698 sec
+Confidence Performance: Avg calc time for each pair: 2.519 sec, Total: 211.586 sec
+confidence calculation finished. time: 211.603 sec
+fragment 16 was chosen as next piece with conf: 0.159. Matched with fragments: 14
+fragment 16 absolute selected sampled tform (before refine): [-442 468 9.125]
+best score props: disP=0.0355, disq=0.0417, a*f(D(P,q))=0.0000, score=0.0772
+fragment 16 absolute selected sampled tform (after refine): [-439 466 7.625]
+Reassemb in progress... Fragments placed: 12, Fragments remaining: 6
+multi fragment matching translations validation finished. time: 19.747 s
+after dis re-calc on frag cand 1 for multi frag ov, saving 26860/35570 tforms for confidence
+after dis re-calc on frag cand 2 for multi frag ov, saving 23947/32783 tforms for confidence
+after dis re-calc on frag cand 5 for multi frag ov, saving 22627/29301 tforms for confidence
+after dis re-calc on frag cand 8 for multi frag ov, saving 9890/13838 tforms for confidence
+after dis re-calc on frag cand 13 for multi frag ov, saving 22957/28207 tforms for confidence
+after dis re-calc on frag cand 18 for multi frag ov, saving 15657/23179 tforms for confidence
+Preparing dis_info for confidence. time: 307.859 sec
+Confidence Performance: Avg calc time for each pair: 29.921 sec, Total: 2333.855 sec
+confidence calculation finished. time: 2333.861 sec
+fragment 1 was chosen as next piece with conf: 0.131. Matched with fragments: [3;6;7]
+fragment 1 absolute selected sampled tform (before refine): [-497 -211.5 -155.875]
+best score props: disP=0.0531, disq=0.0420, a*f(D(P,q))=0.0000, score=0.0951
+fragment 1 absolute selected sampled tform (after refine): [-496 -208.5 -156.375]
+Reassemb in progress... Fragments placed: 13, Fragments remaining: 5
+multi fragment matching translations validation finished. time: 6.011 s
+after dis re-calc on frag cand 2 for multi frag ov, saving 25382/34502 tforms for confidence
+after dis re-calc on frag cand 5 for multi frag ov, saving 23955/31057 tforms for confidence
+after dis re-calc on frag cand 8 for multi frag ov, saving 10834/14806 tforms for confidence
+after dis re-calc on frag cand 13 for multi frag ov, saving 23790/29177 tforms for confidence
+after dis re-calc on frag cand 18 for multi frag ov, saving 16874/24711 tforms for confidence
+Preparing dis_info for confidence. time: 104.269 sec
+Confidence Performance: Avg calc time for each pair: 2.593 sec, Total: 181.519 sec
+confidence calculation finished. time: 181.543 sec
+fragment 5 was chosen as next piece with conf: 0.022. Matched with fragments: [4;14]
+fragment 5 absolute selected sampled tform (before refine): [-833.5 381 -94.0625]
+best score props: disP=0.0700, disq=0.0734, a*f(D(P,q))=0.0000, score=0.1435
+fragment 5 absolute selected sampled tform (after refine): [-832.5 379 -91.0625]
+Reassemb in progress... Fragments placed: 14, Fragments remaining: 4
+multi fragment matching translations validation finished. time: 15.385 s
+after dis re-calc on frag cand 2 for multi frag ov, saving 26215/35904 tforms for confidence
+after dis re-calc on frag cand 8 for multi frag ov, saving 11857/16177 tforms for confidence
+after dis re-calc on frag cand 13 for multi frag ov, saving 25577/31246 tforms for confidence
+after dis re-calc on frag cand 18 for multi frag ov, saving 17789/26090 tforms for confidence
+Preparing dis_info for confidence. time: 168.013 sec
+Confidence Performance: Avg calc time for each pair: 2.588 sec, Total: 155.308 sec
+confidence calculation finished. time: 155.327 sec
+fragment 13 was chosen as next piece with conf: -0.104. Matched with fragments: [5;14]
+fragment 13 absolute selected sampled tform (before refine): [-684 505 -55.0625]
+best score props: disP=0.0805, disq=0.0663, a*f(D(P,q))=0.0000, score=0.1469
+fragment 13 absolute selected sampled tform (after refine): [-685 508 -54.5625]
+Reassemb in progress... Fragments placed: 15, Fragments remaining: 3
+multi fragment matching translations validation finished. time: 11.609 s
+after dis re-calc on frag cand 2 for multi frag ov, saving 26908/37986 tforms for confidence
+after dis re-calc on frag cand 8 for multi frag ov, saving 11554/16170 tforms for confidence
+after dis re-calc on frag cand 18 for multi frag ov, saving 18228/26572 tforms for confidence
+Preparing dis_info for confidence. time: 874.832 sec
+Confidence Performance: Avg calc time for each pair: 0.720 sec, Total: 34.549 sec
+confidence calculation finished. time: 34.579 sec
+fragment 2 was chosen as next piece with conf: -0.196. Matched with fragments: [1;3]
+fragment 2 absolute selected sampled tform (before refine): [-718.5 -257.5 -44.3125]
+best score props: disP=0.0486, disq=0.0579, a*f(D(P,q))=0.0000, score=0.1065
+fragment 2 absolute selected sampled tform (after refine): [-727.5 -254.5 -47.3125]
+Reassemb in progress... Fragments placed: 16, Fragments remaining: 2
+multi fragment matching translations validation finished. time: 2.675 s
+after dis re-calc on frag cand 8 for multi frag ov, saving 12060/17496 tforms for confidence
+after dis re-calc on frag cand 18 for multi frag ov, saving 18448/27386 tforms for confidence
+Preparing dis_info for confidence. time: 23.131 sec
+Confidence Performance: Avg calc time for each pair: 1.738 sec, Total: 59.107 sec
+confidence calculation finished. time: 59.116 sec
+fragment 8 was chosen as next piece with conf: -0.167. Matched with fragments: [5;13]
+fragment 8 absolute selected sampled tform (before refine): [-841 570 -61.8125]
+best score props: disP=0.1257, disq=0.0934, a*f(D(P,q))=0.0000, score=0.2191
+fragment 8 absolute selected sampled tform (after refine): [-842 568 -60.3125]
+Reassemb in progress... Fragments placed: 17, Fragments remaining: 1
+multi fragment matching translations validation finished. time: 1.730 s
+after dis re-calc on frag cand 18 for multi frag ov, saving 18596/27699 tforms for confidence
+Preparing dis_info for confidence. time: 14.965 sec
+Confidence Performance: Avg calc time for each pair: 0.724 sec, Total: 13.037 sec
+confidence calculation finished. time: 13.046 sec
+fragment 18 was chosen as next piece with conf: -0.348. Matched with fragments: [7;9]
+fragment 18 absolute selected sampled tform (before refine): [-108 -353 -10.75]
+best score props: disP=0.0933, disq=0.0764, a*f(D(P,q))=0.0000, score=0.1697
+fragment 18 absolute selected sampled tform (after refine): [-111 -351 -12.25]
+
+!!!Re-assembly calculation finished!!!
+Total Assembly Time: 353 min, 45.386 sec
+Final assembly transformations:
+ -496.0000 -208.5000 -156.3750
+ -727.5000 -254.5000  -47.3125
+ -640.0000  -34.0000   -4.2500
+ -804.0000  154.5000   77.2500
+ -832.5000  379.0000  -91.0625
+ -367.5000  -46.0000   20.7500
+ -244.0000 -227.5000  140.0000
+ -842.0000  568.0000  -60.3125
+  -50.0000 -200.0000   74.0000
+ -161.0000  -15.5000   71.0000
+         0         0         0
+ -220.0000  145.5000   69.5000
+ -685.0000  508.0000  -54.5625
+ -555.5000  310.5000 -112.3750
+ -236.5000  280.0000  123.2500
+ -439.0000  466.0000    7.6250
+   83.0000  -94.0000  -95.0000
+ -111.0000 -351.0000  -12.2500
+
+Fragments assembly order (by fragment number): [11 17 12 10 9 6 15 7 3 4 14 16 1 5 13 2 8 18]
+Could not calculate neighbor meausre due to missing ground truth
+Assemb properties: neighbor measure: 0.0000, (0 / 0), avg distance: 0.0000, avg iou: 0.0000, total conf: 0.2173

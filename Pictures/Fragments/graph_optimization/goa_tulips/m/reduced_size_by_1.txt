@@ -1,0 +1,88 @@
+{
+	"options":
+	{
+		"series" : "goa_tulips"
+	},
+	"fragments":
+	[
+		{
+			"name": "goa_tulips_p1_m.png",
+			"T": [0.000, 0.000, 0.000]
+		},{
+			"name": "goa_tulips_p2_m.png",
+			"T": [28.000, 203.500, 0.000]
+		},{
+			"name": "goa_tulips_p3_m.png",
+			"T": [-36.500, 365.500, 0.000]
+		},{
+			"name": "goa_tulips_p4_m.png",
+			"T": [16.500, 417.000, 0.000]
+		},{
+			"name": "goa_tulips_p5_m.png",
+			"T": [35.000, 542.000, 0.000]
+		},{
+			"name": "goa_tulips_p6_m.png",
+			"T": [-31.000, 751.500, 0.000]
+		},{
+			"name": "goa_tulips_p7_m.png",
+			"T": [191.000, -35.500, 0.000]
+		},{
+			"name": "goa_tulips_p8_m.png",
+			"T": [254.500, 199.500, 0.000]
+		},{
+			"name": "goa_tulips_p9_m.png",
+			"T": [81.000, 339.000, 0.000]
+		},{
+			"name": "goa_tulips_p10_m.png",
+			"T": [186.000, 387.500, 0.000]
+		},{
+			"name": "goa_tulips_p11_m.png",
+			"T": [341.500, 83.500, 0.000]
+		},{
+			"name": "goa_tulips_p12_m.png",
+			"T": [412.500, -3.500, 0.000]
+		},{
+			"name": "goa_tulips_p13_m.png",
+			"T": [534.500, -55.500, 0.000]
+		},{
+			"name": "goa_tulips_p14_m.png",
+			"T": [560.000, 15.500, 0.000]
+		},{
+			"name": "goa_tulips_p15_m.png",
+			"T": [493.500, 185.000, 0.000]
+		},{
+			"name": "goa_tulips_p16_m.png",
+			"T": [446.500, 259.000, 0.000]
+		},{
+			"name": "goa_tulips_p17_m.png",
+			"T": [349.000, 395.500, 0.000]
+		},{
+			"name": "goa_tulips_p18_m.png",
+			"T": [250.000, 546.000, 0.000]
+		},{
+			"name": "goa_tulips_p19_m.png",
+			"T": [177.000, 665.000, 0.000]
+		},{
+			"name": "goa_tulips_p20_m.png",
+			"T": [221.000, 789.000, 0.000]
+		},{
+			"name": "goa_tulips_p21_m.png",
+			"T": [574.000, 249.500, 0.000]
+		},{
+			"name": "goa_tulips_p22_m.png",
+			"T": [531.500, 432.500, 0.000]
+		},{
+			"name": "goa_tulips_p23_m.png",
+			"T": [563.000, 533.500, 0.000]
+		},{
+			"name": "goa_tulips_p24_m.png",
+			"T": [586.500, 724.000, 0.000]
+		},{
+			"name": "goa_tulips_p25_m.png",
+			"T": [382.000, 625.000, 0.000]
+		},{
+			"name": "goa_tulips_p26_m.png",
+			"T": [458.500, 731.500, 0.000]
+		}
+	]
+}

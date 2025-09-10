@@ -1,0 +1,19 @@
+{
+	"options":
+	{
+		"series" : "mtg_fig5"
+	},
+	"fragments":
+	[
+		{
+			"name": "mtg_fig5_p1_m.png",
+			"T": [0.000, 0.000, 0.000]
+		},{
+			"name": "mtg_fig5_p2_m.png",
+			"T": [-92.000, 149.500, 0.000]
+		},{
+			"name": "mtg_fig5_p3_m.png",
+			"T": [9.500, 198.500, 0.000]
+		}
+	]
+}
